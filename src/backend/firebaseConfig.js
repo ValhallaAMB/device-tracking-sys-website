@@ -2,6 +2,7 @@
 import { initializeApp } from "firebase/app";
 import { getDatabase } from "firebase/database";
 
+// Input your Firebase configuration
 const firebaseConfig = {
   apiKey: null,
   authDomain: null,
